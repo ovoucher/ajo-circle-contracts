@@ -1,0 +1,16 @@
+{
+  "network": "testnet",
+  "contractId": "CBLJTYZCAF6F3VW4JSU57S6ODYOXGAK5O3I3W55W2OZVSUXGCZTREZT5",
+  "wasmSha256": "ad33ec23227d9a1120cb7649b574337b501d5c2afd0d6d034cdaf24587e67ca0",
+  "deployer": "GB5LKNMUBZ4O25CYF3WKW2HC4W5DWJLPTH27HD4IRIICSC2WX6JNZKFO",
+  "wasmUploadTx": "a1fcadbc5b5bb3ec0028748ead65aeab3e8ce8df5cffa5333875372f232c3826",
+  "deployTx": "5ee4c41039834a30cdae0ec434e7a84c71813c880870d8eed9fa358a68a27301",
+  "demoTxs": {
+    "contribute_round0": "42ae020949850a3be70d45d693cedc069ccf5528053689c8cd0517af6598c649",
+    "settle_round0": "fc038dba9b72a85bc4de9e67c1473cbd21496b82c4f8149f7969b756df6497a6",
+    "contribute_round1": "e10d50dc56939c527b40339500102a0626b0c46ccdd5c13097495e7434122b0f",
+    "settle_round1_completed": "3934eb10b2e6978af3257f3aa722d41fa1a5be637575e84e1ed564954710f6a8",
+    "claim_alice": "799e4c34f2c165a6f21e6c1eac448fc3f6dd90cc18e206e2ddea4f9eb137e434",
+    "claim_bob": "18c24cd139adcb8485cfe538ba2fc2abf41dceaab09af6092df0008516bbe8c8"
+  }
+}
